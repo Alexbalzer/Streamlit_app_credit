@@ -30,10 +30,11 @@ pip install -r requirements.txt
 
 ## ▶️ Starten
 
-- streamlit run app.py
+- streamlit run main.py
 
 ## 📂 Projektstruktur
-Credit-Risk-Modeling-Streamlit-App/
+Kredite_app/
+
 │── app.py
 
 │── model_utils.py
@@ -48,6 +49,4 @@ Credit-Risk-Modeling-Streamlit-App/
 
 ## 📂 Hinweise
 
-- Beim ersten Training werden ein XGBoost-Modell und LabelEncoder als .pkl gespeichert.
-
-- Trainierte Artefakte werden nicht versioniert (siehe .gitignore).
+- 
