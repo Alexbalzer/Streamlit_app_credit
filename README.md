@@ -13,8 +13,8 @@ Features:
 
 1. Repository klonen:
    ```bash
-   git clone git@github.com:Alexbalzer/Credit-Risk-Modeling-Streamlit-App.git
-   cd Credit-Risk-Modeling-Streamlit-App
+   git clone git@github.com:Alexbalzer/Streamlit_app_credit.git
+   
 
 
 2. Virtuelle Umgebung erstellen und Abhängigkeiten installieren:
@@ -35,10 +35,15 @@ pip install -r requirements.txt
 ## 📂 Projektstruktur
 Credit-Risk-Modeling-Streamlit-App/
 │── app.py
+
 │── model_utils.py
+
 │── requirements.txt
+
 │── README.md
+
 │── .gitignore
+
 └── german_credit_data.csv   # (nicht im Repo enthalten)
 
 ## 📂 Hinweise
